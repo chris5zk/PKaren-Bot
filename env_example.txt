@@ -1,0 +1,9 @@
+# Environment variable
+# bot
+URL = ''
+TOKEN = ''
+
+# channel
+BACKEND = ''
+WELCOME = ''
+LEAVE = ''
